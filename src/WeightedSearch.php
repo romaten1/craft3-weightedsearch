@@ -8,10 +8,10 @@
  * @copyright Copyright (c) 2017 Ransom Roberson
  */
 
-namespace venveo\weightedsearch;
+namespace romaten1\weightedsearch;
 
-use venveo\weightedsearch\services\EntriesService as EntriesServiceService;
-use venveo\weightedsearch\variables\WeightedSearchVariable;
+use romaten1\weightedsearch\services\EntriesService as EntriesServiceService;
+use romaten1\weightedsearch\variables\WeightedSearchVariable;
 
 use Craft;
 use craft\base\Plugin;
@@ -24,7 +24,7 @@ use yii\base\Event;
 /**
  * Class WeightedSearch
  *
- * @author    Ransom Roberson
+ * @author    romaten1
  * @package   WeightedSearch
  * @since     1.0.0
  *

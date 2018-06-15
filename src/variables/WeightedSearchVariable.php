@@ -8,14 +8,14 @@
  * @copyright Copyright (c) 2017 Ransom Roberson
  */
 
-namespace venveo\weightedsearch\variables;
+namespace romaten1\weightedsearch\variables;
 
-use venveo\weightedsearch\WeightedSearch;
+use romaten1\weightedsearch\WeightedSearch;
 
 use Craft;
 
 /**
- * @author    Ransom Roberson
+ * @author    romaten1
  * @package   WeightedSearch
  * @since     1.0.0
  */
