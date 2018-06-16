@@ -2,7 +2,7 @@
   "name": "romaten1/craft3-weightedsearch",
   "description": "A remake of the weighted search plugin for Craft 2",
   "type": "craft-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "craft",
     "cms",
