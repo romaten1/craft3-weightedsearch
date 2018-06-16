@@ -8,13 +8,13 @@
  * @copyright Copyright (c) 2017 Ransom Roberson
  */
 
-namespace venveo\weightedsearch\services;
+namespace romaten1\weightedsearch\services;
 
 use craft\elements\Entry;
 use craft\helpers\Search;
 use craft\models\FieldLayout;
 use craft\models\Section;
-use venveo\weightedsearch\WeightedSearch;
+use romaten1\weightedsearch\WeightedSearch;
 
 use Craft;
 use craft\base\Component;
